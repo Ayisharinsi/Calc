@@ -26,7 +26,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
-calc.html
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -182,7 +182,8 @@ calc.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<ex 07.png>)
 ![alt text](ex07.png)
+![alt text](<ex 07.png>)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
